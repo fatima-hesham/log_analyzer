@@ -1,4 +1,4 @@
-# 🧪 Log Analyzer Tool
+# Log Analyzer Tool
 
 A Python tool for parsing Windows Event Logs (EVTX XML) to detect login activity. Designed for SOC analysts and cybersecurity learners.
 
